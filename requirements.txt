@@ -1,0 +1,17 @@
+pywin32
+numpy
+Pillow
+opencv-python
+jupyter
+pyautogui
+time
+opencv
+speech_recognition
+pyttsx3
+openai
+cv2
+json
+win32gui
+win32ui
+win32con
+os
