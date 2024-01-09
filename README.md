@@ -26,6 +26,6 @@ python main.py
 Feel free to contribute to the project by adding new examples to the notebooks provided in the repository. This helps in refining the training data and improving the bot's performance.
 
 ## Credits
-YOLOv4 Tiny live object detection model code: https://github.com/moises-dias/yolo-opencv-detector
-Tutorials: https://www.youtube.com/watch?v=RSXgyDf2ALo&t=176s and https://youtu.be/gdIVHdRbhOs?si=4Yrk0u7o1JnWEfON
+### YOLOv4 Tiny live object detection model code: https://github.com/moises-dias/yolo-opencv-detector
+### Tutorials: https://www.youtube.com/watch?v=RSXgyDf2ALo&t=176s and https://youtu.be/gdIVHdRbhOs?si=4Yrk0u7o1JnWEfON
 
